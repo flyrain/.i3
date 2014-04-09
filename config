@@ -82,7 +82,7 @@ bindsym $mod+1 workspace 1 : shell
 bindsym $mod+2 workspace 2 : emacs
 bindsym $mod+3 workspace 3 : web
 bindsym $mod+4 workspace 4 : src 
-bindsym $mod+5 workspace 5 
+bindsym $mod+5 workspace 5 : exp
 bindsym $mod+6 workspace 6
 bindsym $mod+7 workspace 7
 bindsym $mod+8 workspace 8
@@ -94,7 +94,7 @@ bindsym $mod+Shift+1 move workspace 1 : shell
 bindsym $mod+Shift+2 move workspace 2 : emacs
 bindsym $mod+Shift+3 move workspace 3 : web
 bindsym $mod+Shift+4 move workspace 4 : src
-bindsym $mod+Shift+5 move workspace 5 
+bindsym $mod+Shift+5 move workspace 5 : exp
 bindsym $mod+Shift+6 move workspace 6
 bindsym $mod+Shift+7 move workspace 7
 bindsym $mod+Shift+8 move workspace 8
